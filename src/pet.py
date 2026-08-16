@@ -10,5 +10,5 @@ def add_pet(pet_name, animal_kind, pet_age, pet_owner, stay_duration):
     print (f"Pet Owner:{pet_owner}")
     print (f"Pet stay  duration:{stay_duration}")
 
-add_pet()
+add_pet(pet_name, animal_kind, pet_age, pet_owner, stay_duration)
     
