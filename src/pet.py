@@ -5,8 +5,8 @@ def add_pet():
     pet_owner = input("Enter pet owner name:")
     stay_duration = input("Enter pet stay duration:")
     print (f"Pet Name:{pet_name}")
-    print (f"pet animal kind:{animal_kind}")
     print (f"Pet Age:{pet_age}")
+    print (f"pet animal kind:{animal_kind}")
     print (f"Pet Owner:{pet_owner}")
     print (f"Pet stay  duration:{stay_duration}")
 
