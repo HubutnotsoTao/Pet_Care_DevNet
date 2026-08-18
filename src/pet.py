@@ -4,6 +4,7 @@ def add_pet():
     animal_kind = input("Enter what kind of animal is your pet:")
     pet_owner = input("Enter pet owner name:")
     stay_duration = input("Enter pet stay duration:")
+    print(f"=====ADDED DETAILS=====")
     print (f"Pet Name:{pet_name}")
     print (f"Pet Age:{pet_age}")
     print (f"pet animal kind:{animal_kind}")
