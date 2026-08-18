@@ -1,5 +1,3 @@
-import navigation as nav
+from navigation import actions 
 
-choice = 0
-
-nav.actions()
+actions()
