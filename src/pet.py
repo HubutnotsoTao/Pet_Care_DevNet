@@ -1,4 +1,5 @@
-def add_pet():
+def add_pet(pet_name, pet_age,  animal_kind, animal_kind, stay_duration):
+    def add_pet():
     pet_name = input("Enter pet name:")
     pet_age = input("Enter pet age:")
     animal_kind = input("Enter what kind of animal is your pet:")
