@@ -31,6 +31,6 @@ pet details
 
 
 Assignment
-John - 
-Jeremiah
-Justine
+John - Adding Owners
+Jeremiah - Adding Pets
+Justine - Navigation and main loop
